@@ -28,7 +28,7 @@ Registrando um novo caso na aplicação Web.
 Demonstração do mobile app. O usuário pode entrar em contato via email ou whatsapp.
 
 <div align="center">
-<img src="https://github.com/vpmapelli/be-the-hero/raw/test/gifs/mobile.gif" alt="mobile_demo" width="250" height="500">
+<img src="https://github.com/vpmapelli/be-the-hero/blob/master/gifs/mobile.gif" width="250" height="500">
 </div>
 
 
