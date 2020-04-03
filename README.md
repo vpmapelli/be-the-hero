@@ -1,7 +1,7 @@
 # <div align="center">![be the hero](frontend/src/assets/logo.svg)</div>
 
 
-Aplicação web para conectar ONGs com pessoas que querem ajudar financeiramente um determinado caso!
+Aplicação web para conectar ONGs com pessoas que querem ajudar financeiramente um determinado caso! Essa aplicação foi desenvolvida durante a semana Omnistack 11.0, promovida pela Rocketseat e ministrada por [Diego Fernandes](https://github.com/diego3g).
 
 ## Descrição
 
@@ -9,9 +9,11 @@ De forma simples, a ideia é que as ONGs se cadastrem através da aplicação We
 
 ## Principais tecnologias
 
-Nesta aplicação, é utilizado Node.js para o backend, React para o frontend e React Mobile para o desenvolvimento para smartphones. Como banco de dados, utilizou-se SQLite, e a biblioteca Knex.js como query builder.
+* **Backend**: Uma API utilizando Node.js foi desenvolvida. Para integração com o banco de dados, utilizou-se SQLite, e a biblioteca Knex.js como query builder. Alguns conceitos de testes unitários e de integração foram praticados para algumas rotas com as bibliotecas Jest e supertest .
+* **Frontend**: ReactJS.
+* **Mobile**: React Native e Expo.
 
-## Funcionalidades
+## Screenshots
 
 ### Cadastro
 Tela inicial e cadastro de uma nova ONG na aplicação Web.
